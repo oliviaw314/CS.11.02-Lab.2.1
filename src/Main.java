@@ -52,8 +52,8 @@ public class Main {
     }
 
     // 6. half
-    public static double half(int number) {
-        return (double) number/2;
+    public static double half(double number) {
+        return number/2;
     }
 
     // 7. roundPositiveValueToNearestInteger
